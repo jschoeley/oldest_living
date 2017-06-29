@@ -1,0 +1,7 @@
+# Source
+
+- Table "Table C - World's Oldest Person (WOP) Titleholders Since 1955. Revision #9: As of May 13, 2016". Retrieved 2017-06-29. http://www.grg.org/Adams/C.HTM
+
+# Data cleaning
+
+We selected relevant columns, converted the dates to a YYYY-MM-DD format, updated the table with the death dates of Emma Morano and the date of ascension of Violet Brown and saved in CSV format.
